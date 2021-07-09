@@ -3,7 +3,7 @@
 # Do not edit (Respect to the Devaoloper) 
 # All rights reserved ®Teenuh-X @Teenuh Wa.me/+94766598862
 # Credit : usufusta-whatsappAsena
-*\
+*/
 
 const Asena = require('../events');
 const Config = require('../config');
